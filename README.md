@@ -402,6 +402,6 @@ This guide is licensed under the [MIT License](LICENSE).
 
 ---
 
-_Your feedback and contributions are highly appreciated! Help us improve this guide and make it even more awesome._
+Your feedback and contributions are highly appreciated! Help us improve this guide and make it even more awesome._
 
-_Last updated: 8 Aug 2023
+Last updated: 8 Aug 2023
